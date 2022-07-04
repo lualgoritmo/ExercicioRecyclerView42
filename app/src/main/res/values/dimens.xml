@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_titleHome">20dp</dimen>
+    <dimen name="txt_padding_5dp">5dp</dimen>
+    <dimen name="image_width">50dp</dimen>
+    <dimen name="image_padding_12dp">12dp</dimen>
+    <dimen name="deafult_marge">16dp</dimen>
+    <dimen name="txtSize_14dp">14dp</dimen>
+    <dimen name="txtMargin_16dp">16dp</dimen>
+</resources>
